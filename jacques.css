@@ -120,3 +120,12 @@ div.rigadestra{
     padding-top:140px;
 }
 
+@media (max-width: 768px) {
+    
+  .rigadestra{
+    clear: both;
+    display: block;
+    width: 100%;
+  }
+}
+

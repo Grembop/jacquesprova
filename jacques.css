@@ -105,10 +105,8 @@ div.colonnasinistra{
 
 img{
     position:absolute;
-    top:0;
-    right:0;
-    padding-top:270px;
-    padding-right:760px;
+    top:270px;
+    right:760px;
 }
 
 div.rigasinistra{

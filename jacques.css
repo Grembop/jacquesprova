@@ -53,6 +53,7 @@ table td,th{
 
 table th{
     vertical-align:top;
+    padding-top:75px;
 }
 
 table td{

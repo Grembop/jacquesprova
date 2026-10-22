@@ -121,11 +121,14 @@ div.rigadestra{
 }
 
 @media (max-width: 768px) {
-    
-  .rigadestra{
-    clear: both;
-    display: block;
-    width: 100%;
-  }
+  
+  div.rigadestra {
+    float: none !important;      
+    clear: both !important;       
+    width: 100% !important;      
+    padding-top: 20px !important; 
+    padding-right: 0px !important;
+
+}
 }
 
